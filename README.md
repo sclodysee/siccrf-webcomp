@@ -7,7 +7,7 @@ Libraries de composants VueJS
 
 - [Installation](#installation)
 - [Example](#example)
-- [Librarie] (#librarie)
+- [Librarie](#librarie)
 
 # Installation
 

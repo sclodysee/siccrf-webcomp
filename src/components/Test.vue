@@ -11,7 +11,7 @@ export default {
 
   data () {
     return {
-      name: 'Hello World',
+      name: 'Hello World !',
     }
   },
 }

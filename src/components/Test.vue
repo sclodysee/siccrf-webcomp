@@ -1,6 +1,6 @@
 <template>
-  <div class="test">
-    <h1>Hello siccrf-webcomp!</h1>
+  <div>
+    <h1>Je suis le composant &lt;test&gt;&lt;/test></h1>
     <input v-model="name" placeholder="Name" />
   </div>
 </template>
@@ -11,14 +11,14 @@ export default {
 
   data () {
     return {
-      name: 'Hello from DGCCRF',
+      name: 'Hello World',
     }
   },
 }
 </script>
 
-<style scoped>
-.test h1 {
+<style>
+ h1 {
   color: #40b883;
 }
 </style>

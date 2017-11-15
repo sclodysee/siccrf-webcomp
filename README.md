@@ -7,6 +7,7 @@ Libraries de composants VueJS
 
 - [Installation](#installation)
 - [Example](#example)
+- [Librarie] (#librarie)
 
 # Installation
 
@@ -38,3 +39,7 @@ Libraries de composants VueJS
 	</body>
 </html>
 ```
+
+# Librarie
+
+Vous pouvez la liste des composants en suivant le lien : [siccrf-webcomp/src/components](https://github.com/sclodysee/siccrf-webcomp/tree/master/src/components)
